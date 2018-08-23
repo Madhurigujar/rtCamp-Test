@@ -1,0 +1,124 @@
+
+.top_header {
+  background-color: #eeeaeb;
+}
+
+.top-right > a {
+  color: #000;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+    transition: all 0.2s ease 0s;
+}
+.top-right > a:hover {
+  color: #E6C46D;
+  text-decoration: none;
+  transition: all 0.2s ease 0s;
+}
+.google-search {
+  font-size: 10px;
+  height: 22px;
+  margin: 22px 0 0;
+  padding: 0 0 0 56px;
+  text-transform: capitalize;
+}
+
+.nav>li>a{
+	color:black; 
+	font-weight: bold; 
+	padding-top:5px; 
+	padding-bottom:5px;
+}
+.welcome-box {
+  background: #eeeaeb none repeat;
+  height: 453px;;
+}
+.welcome_rt {
+  color: #b9a071;
+  padding: 15px 0;
+  font-size: 25px;
+}
+.welcome-photo{
+  padding-right: 15px;
+}
+.welcome-text {
+  color: #3d393a;
+  font-size: 13px;
+  line-height: 26px;
+}
+.welcome-panel > a {
+  color: #91794a;
+  transition: all 0.2s ease 0s;
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none;
+  line-height: 50px;
+  text-transform: capitalize;
+}
+.welcome-panel>a:hover {
+  color:#f2c864;
+}
+
+
+.our-partner .container {
+  border-bottom: 1px solid lightgray;
+  border-top: 1px solid lightgray;
+  margin-top: 15px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+#video {
+  float: none;
+  margin: auto;
+}
+
+.titles {
+  margin-bottom: 10px;
+  background-color: #f4eede;
+  border-left: 10px solid #d6b76d;
+  font-size: 15px;
+  font-weight: bold;
+  line-height: 28px;
+  padding-left: 13px;
+  
+}
+
+.row.latest-tweets {
+  border-top: 1px solid lightgray;
+  margin-right: 0;
+  padding-top: 20px;
+}
+
+#news123 {
+  padding-bottom: 15px;
+}
+
+.points {
+  margin-top: 9px;
+  padding-left: 6px;
+}
+.points a {
+  font-size: 12px;
+  padding-left: 8px;
+}
+#news-slid {
+  padding-bottom: 15px;
+}
+.morenews{
+  position: absolute;
+  right: 0;
+  bottom:15px
+}
+
+.submenu {min-height:30px}
+.submenu .navbar-brand,
+.submenu .navbar-nav>li>a {padding-top:5px; padding-bottom:5px}
+.submenu .navbar-brand {height: 30px}
+.submenu .navbar-toggle {margin: 3px 9px 3px 0px; padding: 4px 4px 4px 4px;}
+.submenu .navbar-toggle .icon-bar {width: 16px;}
+
+
+#pages>ul>li>a{
+	color:#4b4020;
+	line-height:30px;
+}
